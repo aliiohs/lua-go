@@ -1,4 +1,4 @@
-package luogo
+package binchunk
 
 import (
 	"encoding/binary"
